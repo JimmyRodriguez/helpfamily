@@ -1,0 +1,126 @@
+body{
+    background-color:#F8F8F8;
+    
+    
+}
+#img{
+    background-image:url('../images/stars.gif');
+    background-repeat:no-repeat;
+    margin:175px 0px 0px 315px;
+    height:85px;
+    width:32px;
+     position:fixed;
+       z-index:15999;
+}
+#load_info{
+    margin:50px 0px 0px 330px;
+   width:305px;
+     z-index:16000;
+    position:fixed;
+   padding:10px;
+   
+    text-shadow: 1px 1px 1px #fff;
+   height:200px;
+    background-color:#ebebeb;
+opacity:0.45;
+-moz-box-shadow: 0px 0px 4px #707070;
+-webkit-box-shadow: 0px 0px 4px #707070;
+box-shadow: 0px 0px 4px #707070;
+  
+}
+#load_info_inner{
+    margin:60px 0px 0px 340px;
+  
+     z-index:16001;
+    position:fixed;
+  height:180px;
+   width:285px;
+    text-shadow: 1px 1px 1px #fff;
+   
+    background-color:#F8F8F8;
+        padding:10px;
+  font-family:helvetica;
+  font-size:11px;
+
+-moz-box-shadow: 0px 0px 2px #cdcdcd;
+-webkit-box-shadow: 0px 0px 2px #cdcdcd;
+box-shadow: 0px 0px 2px #cdcdcd;
+  
+}
+
+.ub_text_box_wraps_small{
+                width:225px;
+                 border:solid 1px #ebebeb;
+                    background-color:#FAFAFA;
+                    height:25px;
+                    padding:4px 5px 0px 5px;
+                
+            }
+            .ub_text_box_small{
+                
+                border:none;
+                    background-color:transparent;
+                font-size:14px;
+                color:#787878;
+                width:210px;
+                
+                
+            }
+            
+.ub_buttons{
+                cursor:pointer;
+                padding:4px;
+                background-color:#7f7f7f;
+                color:#fff;
+                font-size:12px;
+                cursor:pointer;
+                text-shadow:none;
+                font-family:helvetica;
+                border:none;
+                margin:7px 3px 0px 1px;
+            }
+            
+
+.fll{
+    float:left;
+}
+.flr{
+    float:right;
+}
+
+.clb{
+    clear:both;
+}
+
+.txtl{
+    text-align:left;
+}
+
+.txtr{
+    text-align:right;
+}
+.txtc{
+    text-align:center;
+}
+
+.br7{
+    height:10px;
+}
+
+.br5{
+    height:5px;
+}
+
+.hrule{
+    border-bottom:solid 1px #ebebeb;
+    width:90%;
+}
+
+.hrule100{
+    border-bottom:solid 1px #ebebeb;
+   
+}
+
+.hide{
+    display:none;
+}
